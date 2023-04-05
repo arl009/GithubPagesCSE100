@@ -38,8 +38,8 @@ Other hobbies
 
 My normal daily tasks
 - [ ] Eating
-- [ ] Sleeping
-- [ ] Breathing
+- [X] Sleeping
+- [X] Breathing
 
 ## Some Code
 This is an example of what a for loop looks like
